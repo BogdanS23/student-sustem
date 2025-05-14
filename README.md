@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/BogdanS23/student-sustem.git
-cd <repository-name>
+cd student-sustem
 ```
 
 ### 2. Запуск
